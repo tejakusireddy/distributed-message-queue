@@ -23,6 +23,7 @@ This project is intended to demonstrate production-grade distributed systems des
 - Raft-based leader election and replication (per partition)
 - Batch consumption for improved efficiency
 - Administrative endpoints for topics, partitions, and Raft statistics
+- Cross-Platform Compatibility: Designed and tested for seamless operation on both X64 and ARM64 architectures.
 
 Planned:
 - Prometheus + Grafana observability
